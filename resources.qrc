@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/weareherelogo.png</file>
+        <file>images/icon_on_transparent_bg.png</file>
+        <file>images/ChatGPT Image Oct 2, 2025, 10_10_15 AM.png</file>
+    </qresource>
+</RCC>
